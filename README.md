@@ -4,9 +4,14 @@ Reuters (2021) reported that Tesla cars are banned from China's military complex
 
 The proposed privacy-perserving control system for intelligent vehicles for Ford-Australia Alliance Australia Submitted Initial Project Idea.
 
+The homomorphic-encryption-based control system that performs computation on encrypted location data to generate encrypted velocity signals is to be implemented in this project. 
+
+
 ![overall process](graphs/graph1.png)
 
 ## Detailed Process
+
+For simplicity, it’s assumed that there are only two vehicles and they are on the same lane with the same direction. 
 
 Step 1 & 2.
 
