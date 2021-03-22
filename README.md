@@ -13,5 +13,3 @@ Step 1 & 2.
 Step 3 & 4.
 
 ![Step 3 & 4](graphs/graph4.png)
-
-![graph2](graphs/graph2.png)
